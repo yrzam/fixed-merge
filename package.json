@@ -1,0 +1,22 @@
+{
+  "name": "fixed-merge",
+  "version": "1.0.0",
+  "description": "Can merge images with provided dimensions. Has lots of custom features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrzam/fixed-merge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrzam/fixed-merge/issues"
+  },
+  "homepage": "https://github.com/yrzam/fixed-merge#readme",
+  "dependencies": {
+    "canvas": "^2.7.0"
+  }
+}
